@@ -1,6 +1,6 @@
 ---
 
-![image](/Project Report/start.png) 
+![image](/Project Report/game.png) 
 
 <p align="center"> <b>Hidden Crystal User Manuel</b> </p>
   
