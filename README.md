@@ -2,7 +2,7 @@
 
 ![image](/Project Report/start.png) 
 
-<p align="center"> <b>Filthy Cell-Culture Dish User Manuel</b> </p>
+<p align="center"> <b>Hidden Crystal User Manuel</b> </p>
   
   <p align="center">(c) AG Team</p>
   
